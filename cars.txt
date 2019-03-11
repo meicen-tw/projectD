@@ -1,5 +1,3 @@
 Mazda RX7-FC3S
-<<<<<<< HEAD
 TOYOTA TURENO GT-APEX(AE86)
-=======
->>>>>>> feaca0118410b88d74f962fa095e730b7e89524f
+
